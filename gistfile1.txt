@@ -1,5 +1,9 @@
 connect25lovylmq.onion <-- blackbook a privacy based social network 
 
+sejnfjrq6szgca7v.onion <---- Tor mirror of Debian.org
+
+tinhat233xymse34.onion <--- The Tin Hat, great blog about internet privacy with easy tutorials 
+
 platform52wdeibt3ivmcapq.onion <--- Liberated books and paper (hard to come by books and papers)
 
 msydqstlz2kzerdg.onion <------ An onion search engine that does a good job of removing CP 
@@ -10,7 +14,7 @@ kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion <-- Imperial Libr
 
 darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion <-- The latest Tor news as it happens 
 
-dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion <-- Dread forum an old Tor furum full of intresting things
+dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion <-- Dread forum an old Tor forum full of intresting things
 
 
 
