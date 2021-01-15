@@ -2,6 +2,10 @@ connect25lovylmq.onion <-- blackbook a privacy based social network
 
 sejnfjrq6szgca7v.onion <---- Tor mirror of Debian.org
 
+pugljpwjhbiagkrn.onion <-- Debian manpages
+
+7b42twezybs23hrr.onion <--- linux.sh terminal based file shareing utility
+
 74ypjqjwf6oejmax.onion <-- Beneath VT, Exploring Virginia Tech's steam tunnels and beyond
 
 tinhat233xymse34.onion <--- The Tin Hat, great blog about internet privacy with easy tutorials 
@@ -13,6 +17,8 @@ vb75uj2ap3hyyava.onion <--- Hacking is Art, a lovely blog about cybersecurity an
 ytxmrc3pcbv5464e.onion <-- GreySec Forums (nice litte undergound hacker forum) 
 
 gnvweaoe2xzjqldu.onion <--- Planet Debian (All about debian)
+
+qhhunyjzmdyx4i4d.onion <---- ixIRC - IRC search engine
 
 suprbayoubiexnmp.onion <---- The Pirate Bay , Awsome torrent search engine 
 
@@ -30,6 +36,8 @@ xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion <- TORCH one of t
 
 kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion <-- Imperial Library of Trantor (good place to find free Ebooks)
 
+nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion <---- Comic Book library (free duh)
+
 darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion <-- The latest Tor news as it happens 
 
 dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion <-- Dread forum an old Tor forum full of intresting things
@@ -39,6 +47,12 @@ answerszuvs3gg2l64e6hmnryudl5zgrmwm3vh65hzszdghblddvfiqd.onion <-- Hidden Answer
 anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion <-- Deep Web Radio, Live internet radio via Tor
 
 http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion <--- The CIA's Official Onion Site
+
+yrdsfikfhnlop22gqmo4szwdwowiqbs3soq5xzbvjiz2r2uplxkshaqd.onion <-- CyberChef hosted on Tor (tool for dealing with hashes and encryption)
+
+lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion <-- OnionShare (share files via Tor) 
+
+
 
 
 
