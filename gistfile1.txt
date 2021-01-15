@@ -10,13 +10,17 @@ platform52wdeibt3ivmcapq.onion <--- Liberated books and paper (hard to come by b
 
 vb75uj2ap3hyyava.onion <--- Hacking is Art, a lovely blog about cybersecurity and internet privacy 
 
+ytxmrc3pcbv5464e.onion <-- GreySec Forums (nice litte undergound hacker forum) 
+
 gnvweaoe2xzjqldu.onion <--- Planet Debian (All about debian)
 
 suprbayoubiexnmp.onion <---- The Pirate Bay , Awsome torrent search engine 
 
-haystakvxad7wbk5.onion <---------- Haystack search engine by far one of my favorite search engines very large database
+haystakvxad7wbk5.onion <---------- Haystack search engine (very large database) 
 
 msydqstlz2kzerdg.onion <------ An onion search engine that does a good job of removing CP 
+
+2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion <-- ExcavaTOR (one of my favorite search engines) 
 
 tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion <- Tor66 fairly decent search engine gives good results but not the best
 
